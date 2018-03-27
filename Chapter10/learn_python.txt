@@ -1,0 +1,3 @@
+In Python you can create.
+In Python you can automate task.
+In Python you can build backend website.
